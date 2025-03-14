@@ -35,3 +35,28 @@
   text-transform: uppercase;
   font-weight: bold;
 }
+.counter{
+  display: flex;
+  flex-direction: column;
+  width: 200px;
+  height: 300px;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding: 1rem;
+  border-radius: 20px;
+  background-color: white;
+  border: 1px solid darkgoldenrod;
+  margin: auto;
+}
+.number{
+  font-size: 100px;
+}
+.button{
+  height: 50px;
+  font-size: 30px;
+}
+.banner {
+  text-align: center;
+  background-color: antiquewhite;
+}
